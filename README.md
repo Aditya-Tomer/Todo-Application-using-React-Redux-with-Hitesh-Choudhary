@@ -1,4 +1,4 @@
-#This is a Todo Application, builed using React-Redux
+# This is a Todo Application, builed using React-Redux
 
 This projrct I have builed during the learnig phase of react-redux. The resourse that follow throught this learning is Chai aur Code.
 
